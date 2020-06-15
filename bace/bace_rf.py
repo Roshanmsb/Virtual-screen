@@ -1,4 +1,4 @@
-"""This example implements RF experiments from https://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00290"""
+"""This code implements RF experiments from https://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00290"""
 import sys
 import os
 import deepchem
